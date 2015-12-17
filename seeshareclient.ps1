@@ -76,7 +76,7 @@ Function openTheShare
 
         #---Begin opening the share-----
         
-        #Store SU Username in a variable and get the logged on Normal Username
+        #Store SU Username in a variable for use in $cred
         $suUsername = getAdminAccount
         
         #change format of the share to correct syntax
