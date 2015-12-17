@@ -8,12 +8,15 @@
 #
 #Date Created:  08/12/2015
 #
-#Version:       1.2.0
+#Version:       1.3.0
 #
 #Edits:         SS 16/12/2015: Updated version from 1.0.0 to 1.1.0. Added securefile check. If it does not exist
 #                              user is prompted to create it.
-#               SS 17/12/2015: (1) Refactored code to be more functional. (2) User is now prompted for their SU account which
-#                              is stored and referenced - means you don't need to hard code the su account.               
+#               SS 17/12/2015: Updated version from 1.1.0 to 1.2.0. (1) Refactored code to be more functional. 
+#                              (2) User is now prompted for their SU account which
+#                              is stored and referenced - means you don't need to hard code the su account.
+#               SS 17/12/2015: Updated version from 1.2.0 to 1.3.0. Added a password switch which can be used when a password 
+#                              has expired and needs changing.
 #-------------------------------------------------------------------------------------------------------------------------------
 
 
